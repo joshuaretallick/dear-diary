@@ -39,6 +39,7 @@ body {
   background-color: lightgrey;
 }
 
-#sticky-footer {
+#sticky-footer a {
   flex-shrink: none;
+  text-decoration: none;
 }
