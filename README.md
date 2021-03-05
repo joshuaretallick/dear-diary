@@ -27,5 +27,5 @@ Bootstrap
 JQuery
 Popper
 BCrypt
-Will_paginate
+will_paginate
 ```
