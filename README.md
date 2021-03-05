@@ -2,7 +2,7 @@
 
 For this app I wanted to explore the internal workings of a Rails project through a standard CRUD application.
 
-This blogging app has been created without generating any scaffolds or the usual Rails helpers.  So all routes, models, views and controllers we're manually coded by myself which has helped me really delve in to the magic beneath the hood.  This was especially challenging for the authentication side of things, as rather than use the wonderful (it truly is) gem DEVISE, I opted for BCrypt.  By doing this it has made me understand authentication much deeper at the controller level.
+This blogging app has been created without generating any scaffolds or the usual Rails helpers.  So all routes, models, views and controllers were manually coded by myself which has helped me really delve in to the magic beneath the hood.  This was especially challenging for the authentication side of things, as rather than use the wonderful (it truly is) gem DEVISE, I opted for BCrypt.  By doing this it has made me understand authentication much deeper at the controller level.
 
 
 ## View my app on Heroku
