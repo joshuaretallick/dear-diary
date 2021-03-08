@@ -29,3 +29,7 @@ Popper
 BCrypt
 will_paginate
 ```
+
+## Testing 
+Unit, Feature & Integration testing completed with MiniTest
+
